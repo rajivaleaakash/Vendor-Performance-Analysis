@@ -1,2 +1,5 @@
 data/
 .venv/
+problem_statement.txt
+.env
+__pycache__/

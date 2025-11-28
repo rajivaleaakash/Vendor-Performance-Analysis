@@ -1,0 +1,12 @@
+25-11-28 11:59:41 - [INFO] - get_vendor_summary - vendor summary pipline started.
+25-11-28 11:59:41 - [INFO] - get_vendor_summary - Starting vendor summary creation.
+25-11-28 12:02:28 - [INFO] - get_vendor_summary - Vendor summary created successfully. Rows fetched: 10692
+25-11-28 12:02:28 - [INFO] - get_vendor_summary - Starting data cleaning process.
+25-11-28 12:02:29 - [INFO] - get_vendor_summary - Data cleaning completed successfully.
+25-11-28 12:02:29 - [ERROR] - get_vendor_summary - vendor summary pipline compeleted with errors during ingestion.
+25-11-28 12:07:59 - [INFO] - get_vendor_summary - vendor summary pipline started.
+25-11-28 12:07:59 - [INFO] - get_vendor_summary - Starting vendor summary creation.
+25-11-28 12:10:30 - [INFO] - get_vendor_summary - Vendor summary created successfully. Rows fetched: 10692
+25-11-28 12:10:30 - [INFO] - get_vendor_summary - Starting data cleaning process.
+25-11-28 12:10:30 - [INFO] - get_vendor_summary - Data cleaning completed successfully.
+25-11-28 12:10:33 - [INFO] - get_vendor_summary - vendor summary pipline completed successfully.

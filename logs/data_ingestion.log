@@ -1,0 +1,9 @@
+25-11-28 10:54:58 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 11:59:41 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 12:02:29 - [INFO] - data_ingestion - Starting ingestion for table: vendor_sales_summary
+25-11-28 12:02:29 - [INFO] - data_ingestion - Dataframe shape: Rows:10692 Columns:17
+25-11-28 12:02:29 - [ERROR] - data_ingestion - Failed to ingest data into table 'vendor_sales_summary': cannot access local variable 'conn' where it is not associated with a value
+25-11-28 12:07:59 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 12:10:30 - [INFO] - data_ingestion - Starting ingestion for table: vendor_sales_summary
+25-11-28 12:10:30 - [INFO] - data_ingestion - Dataframe shape: Rows:10692 Columns:17
+25-11-28 12:10:33 - [INFO] - data_ingestion - Successfully ingested 10692 records into table 'vendor_sales_summary'
