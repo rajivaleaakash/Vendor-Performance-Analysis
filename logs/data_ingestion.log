@@ -7,3 +7,14 @@
 25-11-28 12:10:30 - [INFO] - data_ingestion - Starting ingestion for table: vendor_sales_summary
 25-11-28 12:10:30 - [INFO] - data_ingestion - Dataframe shape: Rows:10692 Columns:17
 25-11-28 12:10:33 - [INFO] - data_ingestion - Successfully ingested 10692 records into table 'vendor_sales_summary'
+25-11-28 15:31:27 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 15:33:25 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 15:33:41 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 15:42:58 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 16:13:45 - [INFO] - data_ingestion - Database connection established successfully
+25-11-28 16:15:32 - [INFO] - data_ingestion - Starting ingestion for table: vendor_sales_summary
+25-11-28 16:15:32 - [INFO] - data_ingestion - Dataframe shape: Rows:10692 Columns:18
+25-11-28 16:15:34 - [INFO] - data_ingestion - Successfully ingested 10692 records into table 'vendor_sales_summary'
+25-11-28 16:17:33 - [INFO] - data_ingestion - Database connection established successfully
+25-11-29 16:28:08 - [INFO] - data_ingestion - Database connection established successfully
+25-12-04 20:32:03 - [INFO] - data_ingestion - Database connection established successfully
