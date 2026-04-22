@@ -1,5 +1,7 @@
 # Vendor Performance Analysis
-
+<p align="center">
+  <img src="Dashboard\Dashboard_View.PNG" alt="Vendor Sales Dashboard" width="800"/>
+</p>
 ## Project Overview
 
 **Vendor Performance Analysis** is an end-to-end data analysis project focused on providing comprehensive insights into vendor operations using data from purchases, sales, invoices, and freight. The goal is to generate vendor-wise sales and purchase summaries, optimize performance handling for large datasets, and support efficient dashboarding and reporting.
